@@ -179,7 +179,7 @@ Le projet a été réalisé selon la méthodologie Agile SCRUM :
 <img width="945" height="663" alt="image" src="https://github.com/user-attachments/assets/9df122b8-7e0b-41ad-b751-aeb5f56e3f04" />
 
 - Gestion des opérations :
-  <img width="727" height="332" alt="image" src="https://github.com/user-attachments/assets/56489e9b-81d6-461b-bf2f-b21a950d9825" />
+<img width="727" height="332" alt="image" src="https://github.com/user-attachments/assets/56489e9b-81d6-461b-bf2f-b21a950d9825" />
 
 - Gestion des utilisateurs : 
 <img width="769" height="235" alt="image" src="https://github.com/user-attachments/assets/5ce6d259-4a89-4202-a461-eece3174fdcc" />
